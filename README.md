@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/kiterminal/logging.svg?branch=master)](https://travis-ci.org/kiterminal/logging)
 
+[![Code Climate](https://codeclimate.com/github/kiterminal/logging/badges/gpa.svg)](https://codeclimate.com/github/kiterminal/logging)
+
 Logging is a logger for Crystal language
 
 ## Installation
